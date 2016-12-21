@@ -58,6 +58,9 @@ p {
 .row {
   margin-top: 20px;
 }
+.col-xs-4 {
+  height: 60px;
+}
 .wide-space {
     letter-spacing: 1.6px;
 }
