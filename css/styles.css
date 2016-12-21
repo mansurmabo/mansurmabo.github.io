@@ -55,7 +55,9 @@ p {
     line-height: 1.7;
     margin-bottom: 20px;
 }
-
+.row {
+  margin-top: 20px;
+}
 .wide-space {
     letter-spacing: 1.6px;
 }
@@ -263,11 +265,11 @@ header .header-content .inner p {
 
 #video-background {
   position: absolute;
-  right: 0; 
+  right: 0;
   bottom: 0;
-  min-width: 100%; 
+  min-width: 100%;
   min-height: 100%;
-  width: auto; 
+  width: auto;
   height: auto;
   z-index: 1;
 }
@@ -284,7 +286,7 @@ footer {
     .icon-lg {
         font-size: 80px;
     }
-    
+
     header {
         min-height: 100%;
     }
@@ -314,7 +316,7 @@ footer {
         max-width: 80%;
         font-size: 18px;
     }
-    
+
     section {
         min-height: 600px;
         padding: 100px 0;
