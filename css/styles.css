@@ -70,6 +70,11 @@ p {
     line-height: 18px;
 }
 
+.icon-sm {
+    font-size: 50px;
+    line-height: 0px;
+}
+
 .bg-primary {
     background-color: #333;
 }
