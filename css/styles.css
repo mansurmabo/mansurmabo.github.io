@@ -246,7 +246,7 @@ header {
     color: #fff;
     width: 100%;
     background-color: #c9c9c9;
-    background-image: url('https://splashbase.s3.amazonaws.com/lifeofpix/regular/Life-of-Pix-free-stock-photos-Slate-Stone-Xeromatic-1440x953.jpg');
+    background-image: url('../img/bg.jpg');
     background-position: center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -294,6 +294,7 @@ footer {
 }
 
 @media(min-width:768px) {
+
     .icon-lg {
         font-size: 80px;
     }
@@ -371,6 +372,7 @@ textarea {
 }
 
 @media(min-width:992px) {
+
     .feature {
         margin: 20px auto 0;
     }
